@@ -1,0 +1,18 @@
+
+{
+    "variants": {
+        "variant=brick": {
+            "model": "ssm:scorched_brick"
+        },
+        "variant=corrupt": {
+            "model": "ssm:scorched_brick_corrupt"
+        },
+        "variant=carved": {
+            "model": "ssm:scorched_brick_carved"
+        },
+        "variant=cracked": {
+            "model": "ssm:scorched_brick_cracked"
+        }
+
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=false": { "model": "ssm:scorched_brick_slab" },
+        "variant=true":    { "model": "ssm:scorched_brick_slab" }
+    }
+}

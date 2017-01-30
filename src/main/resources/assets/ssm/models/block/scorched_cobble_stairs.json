@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "ssm:blocks/scorched_cobble",
+        "top": "ssm:blocks/scorched_cobble",
+        "side": "ssm:blocks/scorched_cobble"
+    }
+}

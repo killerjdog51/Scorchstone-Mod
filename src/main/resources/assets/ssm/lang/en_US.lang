@@ -1,0 +1,17 @@
+itemGroup.tabScorchstone=Scorchstone Mod
+
+tile.scorched_stone.name=Scorched Stone
+tile.scorched_cobble.scorched_cobble.name=Scorched Rubble
+tile.scorched_cobble.scorched_cobble_corrupt.name=Corrupt Rubble
+tile.scorched_brick.scorched_brick.name=Scorched Brick
+tile.scorched_brick.scorched_brick_corrupt.name=Corrupt Brick
+tile.scorched_brick.scorched_brick_carved.name=Carved Scorched Brick
+tile.scorched_brick.scorched_brick_cracked.name=Cracked Scorched Brick
+tile.scorchstoneSlab.name=Scorched Stone Slab
+tile.scorchstoneCobbleSlab.name=Scorched Rubble Slab
+tile.scorchstoneBrickSlab.name=Scorched Brick Slab
+tile.scorchstone_Stairs.name=Scorched Stone Stairs
+tile.scorchstone_Cobble_Stairs.name=Scorched Rubble Stairs
+tile.scorchstone_Brick_Stairs.name=Scorched Brick Stairs
+tile.migma.migma_cobble.name=Migma Rubble
+tile.migma.migma_brick.name=Migma Brick

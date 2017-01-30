@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "ssm:blocks/scorched_cobble",
+        "side": "ssm:blocks/scorched_cobble"
+    }
+}

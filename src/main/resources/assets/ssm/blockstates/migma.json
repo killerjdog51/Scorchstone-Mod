@@ -1,0 +1,12 @@
+
+{
+    "variants": {
+        "variant=cobble": {
+            "model": "ssm:migma_cobble"
+        },
+        "variant=brick": {
+            "model": "ssm:migma_brick"
+        }
+
+    }
+}

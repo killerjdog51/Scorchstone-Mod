@@ -1,0 +1,12 @@
+
+{
+    "variants": {
+        "variant=cobble": {
+            "model": "ssm:scorched_cobble"
+        },
+        "variant=corrupt": {
+            "model": "ssm:scorched_cobble_corrupt"
+        }
+
+    }
+}

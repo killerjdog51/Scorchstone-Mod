@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "ssm:half_slab_scorch_stone" },
+        "half=top,variant=false": { "model": "ssm:upper_slab_scorch_stone" },
+        "half=bottom,variant=true": { "model": "ssm:half_slab_scorch_stone" },
+        "half=top,variant=true": { "model": "ssm:upper_slab_scorch_stone" }
+    }
+}

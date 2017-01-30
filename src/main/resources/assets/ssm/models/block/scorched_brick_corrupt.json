@@ -1,0 +1,7 @@
+
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "ssm:blocks/scorched_brick_corrupt"
+    }
+}
